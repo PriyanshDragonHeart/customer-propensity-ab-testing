@@ -1,0 +1,16 @@
+[
+    "current_age",
+    "vintage_months",
+    "DP_Value_log",
+    "Total_Margin_log",
+    "ord_cash_log",
+    "ord_derv_log",
+    "Category_Bucket_final",
+    "Vertical",
+    "self_dealer_status",
+    "Number_of_competition_account",
+    "plan",
+    "Dealing_Zone",
+    "recency",
+    "never_traded"
+]
